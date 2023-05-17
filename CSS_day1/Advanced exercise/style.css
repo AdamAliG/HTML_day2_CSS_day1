@@ -1,0 +1,41 @@
+header > hr{
+    width:800px;
+    
+}
+
+h4 > hr{
+    width:200px
+    
+}
+
+.first {
+    width:200px;
+    font-size:2em;
+    text-align: center;
+    position: relative;
+    bottom:50px;
+}
+
+article {
+    display: inline-block;
+}
+
+ .second img{
+ margin: 20px 0 0 50px;
+ padding-right:30px;
+}
+
+        
+
+.third{
+    position: relative;
+    bottom:95px;
+    text-align: center;
+    width:600px;
+    font-size:2em;
+}
+
+.picture {
+
+    float: right;
+}
