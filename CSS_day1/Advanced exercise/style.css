@@ -1,5 +1,5 @@
 header > hr{
-    width:800px;
+    width:60%;
     
 }
 
@@ -9,11 +9,13 @@ h4 > hr{
 }
 
 .first {
-    width:200px;
+    padding-left:30px;
+    width:15%;
     font-size:2em;
     text-align: center;
     position: relative;
-    bottom:50px;
+    bottom:168px;
+    display:inline-block;
 }
 
 article {
@@ -23,19 +25,28 @@ article {
  .second img{
  margin: 20px 0 0 50px;
  padding-right:30px;
+ padding-bottom:80px;
 }
 
         
 
 .third{
     position: relative;
-    bottom:95px;
+    bottom:180px;
     text-align: center;
-    width:600px;
+    width:40%;
     font-size:2em;
+    display:inline-block;
 }
 
 .picture {
 
     float: right;
+}
+
+main {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    width:1920px;
 }
